@@ -31,7 +31,7 @@ genai.configure(api_key=GEMINI_API_KEY)
 model = genai.GenerativeModel("gemini-1.5-pro-latest")
 
 # MongoDB Atlas Setup
-mongo_uri = "mongodb+srv://bpgayathriananya:X3IyUryZQUhn3IRn@hospital-locator.n1rx9tp.mongodb.net/?retryWrites=true&w=majority&appName=Hospital-locator"
+mongo_uri = "MONGODB_URI"  # Replace with your MongoDB URI
 mongo_client = MongoClient(mongo_uri)
 db = mongo_client["Hospital_locator"]  # <<== correct database name
 hospital_collection = db["hospitals"]  # <<== correct collection name
