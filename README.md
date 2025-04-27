@@ -1,6 +1,6 @@
-# Health Readiness AI
+# Bandaid Maps
 
-Health Readiness AI is a real-time, AI-powered healthcare navigation tool that assesses your emergency preparedness wherever you are.  
+Bandaid Maps is a real-time, AI-powered healthcare navigation tool that assesses your emergency preparedness wherever you are.  
 Using Melissa location data, Gemini AI, and real-time location analysis, it calculates a personalized Health Readiness Score (0-100) and generates a custom emergency action plan.
 
 ---
@@ -37,4 +37,4 @@ Using Melissa location data, Gemini AI, and real-time location analysis, it calc
 ## 🏆 Why It Matters
 
 In true emergencies, you should always call 911.  
-Health Readiness AI helps students, travelers, and residents understand their healthcare accessibility before emergencies happen, ensuring better preparedness and faster, smarter health decisions when minutes matter.
+Bandaid Maps helps students, travelers, and residents understand their healthcare accessibility before emergencies happen, ensuring better preparedness and faster, smarter health decisions when minutes matter.
